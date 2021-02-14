@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hitoda.sample.SampleTestCases" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-14T01:59:41" hostname="MacBook-Pro.local" time="0.078">
+  <properties/>
+  <testcase name="contact information can be serialized()" classname="com.hitoda.sample.SampleTestCases" time="0.078"/>
+  <system-out><![CDATA[{"name":"Jack","contact":{"type":"PhoneContactInformation","phoneNumber":"080-1234-5678","verifyStatus":"NOT_VERIFIED"}}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
